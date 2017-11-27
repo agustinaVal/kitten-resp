@@ -1,0 +1,10 @@
+
+@media only screen and (min-width: 1px) and (max-width: 499px) {
+	.fondo{ background-image: url(img/sunny-day.jpg); }
+	.gatos { background-image: url(img/kitten-small.png); }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 999px) {
+	.fondo { background-image: url(img/night.jpg); }
+	.gatos { background-image: url(img/kitten-medium.png); }
+}
